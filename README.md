@@ -36,9 +36,6 @@ I like building practical ML products: from raw data and feature engineering to 
 - [SafeTriage](https://www.kaggle.com/code/mishashikhov/safetriage-explainable-esi-triage-guardrails) - explainable emergency triage prototype with ESI prediction, undertriage guardrails and subgroup safety audit
 - [Byte2Beat](https://www.kaggle.com/code/mishashikhov/byte2beat-digital-twin-bp-drift-monitoring) - ECG/PPG-based blood pressure drift monitoring with online calibration and reliability routing
 
-## Stack
-
-Python · SQL · pandas · NumPy · scikit-learn · CatBoost · LightGBM · XGBoost · PyTorch · Transformers · FastAPI · Streamlit · Airflow · PostgreSQL · Docker · Git
 
 ## Interests
 
