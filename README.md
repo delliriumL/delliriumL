@@ -1,4 +1,3 @@
-```markdown
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=6A8CAF&width=900&lines=Welcome+to+my+GitHub;Data+Scientist+%7C+ML+Engineer;Credit+Risk+%26+Predictive+Modeling;NLP%2C+RAG%2C+Forecasting%2C+MLOps;Building+practical+ML+systems)
 
 ---
@@ -52,4 +51,3 @@ Python · SQL · pandas · NumPy · scikit-learn · CatBoost · LightGBM · XGBo
 ## Contacts
 
 [Telegram](https://t.me/dellirium_l) · [Kaggle](https://www.kaggle.com/delliriuml) · [GitHub](https://github.com/delIriumL)
-```
