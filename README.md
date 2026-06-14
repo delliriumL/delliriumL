@@ -1,53 +1,59 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=6A8CAF&width=900&lines=Welcome+to+my+GitHub;Data+Scientist+%7C+ML+Engineer;Credit+Risk+%26+Predictive+Modeling;NLP%2C+RAG%2C+Forecasting%2C+MLOps;Building+practical+ML+systems)
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
 ---
 
 ## About
 
-I am a Data Scientist / ML Engineer focused on applied machine learning, credit risk modeling, predictive analytics, and production-ready ML systems.
+Data Scientist / ML Engineer focused on applied machine learning, predictive analytics, risk modeling, NLP systems, and production-ready data pipelines.
 
-I like building full-cycle data products: from raw business data, feature engineering and validation logic to model training, explainability, API inference, dashboards, and reproducible pipelines.
+I like building practical ML products: from raw data and feature engineering to validation, explainability, API inference, dashboards, and reproducible experiments.
 
-Main areas of interest:
+## Selected Projects
 
-- credit risk and scoring models
-- tabular ML and business prediction tasks
-- NLP, RAG and document intelligence
-- time series forecasting and ranking
-- ML services, automation and data pipelines
-
-## Projects
-
-- [corporate-risk-intelligence](https://github.com/delIriumL/corporate-risk-intelligence) - intelligent system for corporate document analysis, semantic search, legal and financial risk extraction
-- [Provider-Intelligence-Pipeline](https://github.com/delIriumL/Provider-Intelligence-Pipeline) - trust-aware provider directory validation pipeline with scoring, enrichment, review logic and audit trail
-- [skillbox-demosite](https://github.com/delIriumL/skillbox-demosite) - web project with TypeScript-based frontend structure
-- [nl2sql-agent](https://github.com/delIriumL/nl2sql-agent) - natural language to SQL assistant prototype
-- [Crypto-ETL-Pipeline](https://github.com/delIriumL/Crypto-ETL-Pipeline) - ETL pipeline for crypto market data processing
-- [S5E7-TAB-M-0.967](https://github.com/delIriumL/S5E7-TAB-M-0.967) - Kaggle tabular ML solution with strong validation and ensemble modeling
-
-## Kaggle Notebooks
-
-- China Real Estate - XGB + LGBM Ensemble with target encoding and cross-validation
-- Bank Fraud Detection and Transaction Analysis
-- FMCG Sales Forecasting: ML Case Study
-- Russian Sentiment Analysis with CNN
-- Russian NER with ELMo + BiLSTM-CRF
-- Medical RAG Pipeline with Qwen2.5-7B-Instruct
-- SafeTriage: Explainable ESI Triage Guardrails
-- PulseTwin Guard: Digital-Twin BP Drift Monitoring
+- [corporate-risk-intelligence](https://github.com/delIriumL/corporate-risk-intelligence) - corporate document intelligence system for semantic search, legal and financial risk extraction
+- [Provider-Intelligence-Pipeline](https://github.com/delIriumL/Provider-Intelligence-Pipeline) - trust-aware provider validation pipeline with scoring, enrichment, review logic and audit trail
+- [China Real Estate](https://www.kaggle.com/code/mishashikhov/china-real-estate-xgb-lgbm-ensemble-with-te-cv) - XGBoost + LightGBM ensemble with target encoding and cross-validation
+- [Bank Fraud Detection](https://www.kaggle.com/code/mishashikhov/bank-fraud-detection-and-transaction-analysis) - transaction analysis and fraud classification pipeline
+- [FMCG Sales Forecasting](https://www.kaggle.com/code/mishashikhov/fmcg-sales-forecasting-ml-case-study) - sales forecasting case study with feature engineering and ML validation
+- [SafeTriage](https://www.kaggle.com/code/mishashikhov/safetriage-explainable-esi-triage-guardrails) - explainable emergency triage prototype with ESI prediction, undertriage guardrails and subgroup safety audit
+- [Byte2Beat](https://www.kaggle.com/code/mishashikhov/byte2beat-digital-twin-bp-drift-monitoring) - ECG/PPG-based blood pressure drift monitoring with online calibration and reliability routing
 
 ## Stack
 
-Python · SQL · pandas · NumPy · scikit-learn · CatBoost · LightGBM · XGBoost · PyTorch · Transformers · FastAPI · Streamlit · Airflow · PostgreSQL · Docker · TypeScript · Git
+Python · SQL · pandas · NumPy · scikit-learn · CatBoost · LightGBM · XGBoost · PyTorch · Transformers · FastAPI · Streamlit · Airflow · PostgreSQL · Docker · Git
 
-## What I usually build
+## Interests
 
-- ML pipelines with clear validation logic and reproducible experiments
-- scoring and risk models with calibration, thresholds and explainability
-- NLP/RAG systems for document search and structured extraction
-- business forecasting models with feature engineering and backtesting
-- API services and lightweight interfaces for model inference
+Credit Risk · Tabular ML · NLP · RAG · Forecasting · Explainable AI · MLOps · Data Products
 
-## Contacts
+---
 
-[Telegram](https://t.me/dellirium_l) · [Kaggle](https://www.kaggle.com/delliriuml) · [GitHub](https://github.com/delIriumL)
+<p>
+  <a href="https://t.me/dellirium_l">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/mishashikhov">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/delIriumL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
